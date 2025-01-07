@@ -1,0 +1,13 @@
+lesson1: filename  # filename
+header: 
+    title: "Lesson Title (Friendly)"
+    author: "author"  # author
+unmodify:
+    lesson_id: 0  # lesson id automatically assigned
+    course_id: "courseid"  # id of course, automatically assigned  
+modules: #modules will be automatically installed
+    - requests
+body: 
+    - "b: blah blah blah"
+    - "p: "
+    - "interpreter"
